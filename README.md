@@ -1,5 +1,6 @@
 # Echidna population projection model
 <img align="right" src="echidna.png" alt="echidna" width="200" style="margin-top: 20px">
+<a href="https://zenodo.org/badge/latestdoi/414046735"><img src="https://zenodo.org/badge/414046735.svg" alt="DOI"></a>
 
 Stochastic Leslie matrix population model for the short-beaked echidna (<a href="https://www.bushheritage.org.au/species/echidna"><em>Tachyglossus aculeatus</em></a>)
 
